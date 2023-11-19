@@ -33,8 +33,8 @@ These guidelines are intended to save players time, prevent frustration, ensure 
   - [Videos, tutorials, and dialogues](#videos-tutorials-and-dialogues)
       - [SKIP\_INTRO](#skip_intro)
       - [SKIP\_CUTSCENE](#skip_cutscene)
-    - [ADVANCE\_DIALOGUE](#advance_dialogue)
-    - [SKIP\_TUTORIAL](#skip_tutorial)
+      - [ADVANCE\_DIALOGUE](#advance_dialogue)
+      - [SKIP\_TUTORIAL](#skip_tutorial)
   - [Saved Games](#saved-games)
       - [NAMED\_PROFILES](#named_profiles)
       - [LOTS\_OF\_SAVE\_SLOTS](#lots_of_save_slots)
@@ -150,11 +150,11 @@ Introduction logos and videos should be skippable, disable-able, or even only sh
 
 Cutscenes should be skippable with a key press. A player may have already seen the cutscene because they are reloading a save file or replaying the whole game. The player may also just be the type of person that cares much more for gameplay than story.
 
-### ADVANCE_DIALOGUE
+#### ADVANCE_DIALOGUE
 
 Dialogue should be advance-able with a click or key press. Depending on whether a player has already heard or read this dialogue in a previous attempt or play-through, if they are reading the subtitles faster than the voices are speaking, or are just more interested in the gameplay then the story, they will appreciate being able to speed through dialogue. 
 
-### SKIP_TUTORIAL
+#### SKIP_TUTORIAL
 
 Games should allow player to skip the tutorial, as well as try it again from the main menu. They may be replaying the game.
 
